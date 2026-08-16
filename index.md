@@ -66,4 +66,4 @@ with a new date.
 
 ## Contact
 
-Questions: jonathanivorhill@gmail.com
+Questions: slingstar.app@gmail.com
